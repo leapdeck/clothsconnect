@@ -1,0 +1,165 @@
+{
+  "California": {
+    "cities": {
+      "Statewide": [
+        {"name": "St. Anthony's Free Clothing Program", "address": "121 Golden Gate Avenue, 2nd Fl, San Francisco, CA 94102", "phone": "(415) 241-8320", "website": "https://stanthonysf.org/services/clothing/"},
+        {"name": "Davis Street Free Clothing Program", "address": "3081 Teagarden St, San Leandro, CA 94577", "phone": "(510) 347-4620", "website": "https://davisstreet.org/basic-needs/free-clothing-program/"},
+        {"name": "Helping Hands Mission", "address": "760 S. Fifth Ave., Industry, CA 91746", "phone": "(626) 333-1920"}
+      ]
+    }
+  },
+  "Texas": {
+    "cities": {
+      "Statewide": [
+        {"name": "St. Stephen’s CARE Center (Catholic Charities)", "address": "2127 S. Zarzamora St, San Antonio, TX 78207", "phone": "(210) 226-6178", "website": "https://ccaosa.org/clothes-closet/"},
+        {"name": "Love Thy Neighbor – Clothing Assistance Program", "address": "1569 W Main St, Lewisville, TX 75067", "email": "clothing@ltnlovethyneighbor.org", "website": "https://ltnlovethyneighbor.org/programs/clothing-assistance-program/"},
+        {"name": "Community Clothes Closet", "address": "Justin, TX", "phone": "(817) 291-8872", "website": "https://communityclothescloset.net"}
+      ]
+    }
+  },
+  "New York": {
+    "cities": {
+      "New York": [
+        {"name": "NYC Center 1", "address": "1 Broadway, New York, NY", "phone": "212-555-0101", "email": "ny1@donate.org", "website": "https://ny1.example.org"},
+        {"name": "NYC Center 2", "address": "2 Broadway, New York, NY", "phone": "212-555-0102", "email": "ny2@donate.org", "website": "https://ny2.example.org"},
+        {"name": "NYC Center 3", "address": "3 Broadway, New York, NY", "phone": "212-555-0103", "email": "ny3@donate.org", "website": "https://ny3.example.org"},
+        {"name": "NYC Center 4", "address": "4 Broadway, New York, NY", "phone": "212-555-0104", "email": "ny4@donate.org", "website": "https://ny4.example.org"},
+        {"name": "NYC Center 5", "address": "5 Broadway, New York, NY", "phone": "212-555-0105", "email": "ny5@donate.org", "website": "https://ny5.example.org"},
+        {"name": "NYC Center 6", "address": "6 Broadway, New York, NY", "phone": "212-555-0106", "email": "ny6@donate.org", "website": "https://ny6.example.org"},
+        {"name": "NYC Center 7", "address": "7 Broadway, New York, NY", "phone": "212-555-0107", "email": "ny7@donate.org", "website": "https://ny7.example.org"},
+        {"name": "NYC Center 8", "address": "8 Broadway, New York, NY", "phone": "212-555-0108", "email": "ny8@donate.org", "website": "https://ny8.example.org"},
+        {"name": "NYC Center 9", "address": "9 Broadway, New York, NY", "phone": "212-555-0109", "email": "ny9@donate.org", "website": "https://ny9.example.org"},
+        {"name": "NYC Center 10", "address": "10 Broadway, New York, NY", "phone": "212-555-0110", "email": "ny10@donate.org", "website": "https://ny10.example.org"}
+      ],
+      "Buffalo": [
+        {"name": "Buffalo Center 1", "address": "1 Lake St, Buffalo, NY", "phone": "716-555-0101", "email": "buf1@donate.org", "website": "https://buf1.example.org"},
+        {"name": "Buffalo Center 2", "address": "2 Lake St, Buffalo, NY", "phone": "716-555-0102", "email": "buf2@donate.org", "website": "https://buf2.example.org"},
+        {"name": "Buffalo Center 3", "address": "3 Lake St, Buffalo, NY", "phone": "716-555-0103", "email": "buf3@donate.org", "website": "https://buf3.example.org"},
+        {"name": "Buffalo Center 4", "address": "4 Lake St, Buffalo, NY", "phone": "716-555-0104", "email": "buf4@donate.org", "website": "https://buf4.example.org"},
+        {"name": "Buffalo Center 5", "address": "5 Lake St, Buffalo, NY", "phone": "716-555-0105", "email": "buf5@donate.org", "website": "https://buf5.example.org"},
+        {"name": "Buffalo Center 6", "address": "6 Lake St, Buffalo, NY", "phone": "716-555-0106", "email": "buf6@donate.org", "website": "https://buf6.example.org"},
+        {"name": "Buffalo Center 7", "address": "7 Lake St, Buffalo, NY", "phone": "716-555-0107", "email": "buf7@donate.org", "website": "https://buf7.example.org"},
+        {"name": "Buffalo Center 8", "address": "8 Lake St, Buffalo, NY", "phone": "716-555-0108", "email": "buf8@donate.org", "website": "https://buf8.example.org"},
+        {"name": "Buffalo Center 9", "address": "9 Lake St, Buffalo, NY", "phone": "716-555-0109", "email": "buf9@donate.org", "website": "https://buf9.example.org"},
+        {"name": "Buffalo Center 10", "address": "10 Lake St, Buffalo, NY", "phone": "716-555-0110", "email": "buf10@donate.org", "website": "https://buf10.example.org"}
+      ]
+    }
+  },
+  "Alaska": {
+    "cities": {
+      "Statewide": [
+        {"name": "Value Village Community Donation Center", "address": "501 E Dimond Blvd, Anchorage, AK 99515", "website": "https://valuevillage.com/thrift-proud/rethink-reuse"},
+        {"name": "AK Cubs Closet", "address": "Anchorage, AK", "phone": "(907) 903-6341", "email": "theakcubscloset@gmail.com", "website": "https://toiletriesamnesty.org/location/the-ak-cubs-closet/"},
+        {"name": "Anchorage Gospel Rescue Mission", "address": "2823 E Tudor Rd, Anchorage, AK 99507", "phone": "(907) 563-5603", "website": "https://anchoragerescue.org/services/clothing-room/"}
+      ]
+    }
+  },
+  "Montana": {
+    "cities": {
+      "Statewide": [
+        {"name": "Love INC Clothes Closet", "address": "19599 Frontage Rd Unit F, Belgrade, MT", "website": "https://loveincgc.org/clothes-closet/"},
+        {"name": "River of Life Clothing Closet", "address": "East Missoula, MT", "website": "https://rolmt.com/outreach"},
+        {"name": "Teen Challenge Thrift Store", "address": "1515 S Ave W, Missoula, MT 59801", "phone": "(406) 543-9443", "website": "https://montanateenchallenge.com"}
+      ]
+    }
+  },
+  "New Mexico": {
+    "cities": {
+      "Statewide": [
+        {"name": "Clothes Helping Kids, Inc.", "address": "1101 Cardenas Dr NE, Ste 201, Albuquerque, NM 87110", "phone": "(505) 266-2002", "website": "https://clotheshelpingkids.org"},
+        {"name": "Project Share (Clothing Bank)", "address": "Albuquerque, NM"},
+        {"name": "St. Vincent de Paul ABQ Thrift Store", "address": "4120 2nd St NW, Albuquerque, NM 87107", "phone": "(505) 247-3511"}
+      ]
+    }
+  },
+  "Arizona": {
+    "cities": {
+      "Statewide": [
+        {"name": "Spreading Threads Clothing Bank", "address": "Tucson, AZ", "website": "https://spreadingthreads.com"},
+        {"name": "Harvest Compassion Center", "address": "4744 E Thunderbird Rd #9, Phoenix, AZ 85032", "website": "https://harvestcompassioncenter.org"},
+        {"name": "1st Phoenix Community Center Clothes Closet", "address": "402 W Monroe St, Phoenix, AZ", "website": "https://1stphoenix.org/clothes-closet"}
+      ]
+    }
+  },
+  "Nevada": {
+    "cities": {
+      "Statewide": [
+        {"name": "Good Shepherd’s Clothes Closet", "address": "540 Greenbrae Dr, Sparks, NV", "phone": "(775) 358-8911", "website": "https://gsccreno.org"},
+        {"name": "Dress for Success Reno-Northern Nevada", "address": "1250 Lander St, Reno, NV 89509", "website": "https://reno.dressforsuccess.org"},
+        {"name": "Betty’s Boutique (Las Vegas)", "address": "Las Vegas, NV", "website": "https://findhelp.org/goods/clothing--las-vegas-nv"}
+      ]
+    }
+  },
+  "Colorado": {
+    "cities": {
+      "Statewide": [
+        {"name": "Denver Rescue Mission Clothing Bank", "address": "3501 E 46th Ave, Denver, CO 80216", "phone": "(303) 297-1815"},
+        {"name": "Safari Thrift Store", "address": "738A Peoria St., Aurora, CO 80011", "phone": "(303) 722-4500"},
+        {"name": "Clothes to Kids of Denver", "address": "2890 S Colorado Blvd, Suite M3, Denver, CO 80222", "phone": "(720) 379-4630"}
+      ]
+    }
+  },
+  "Oregon": {
+    "cities": {
+      "Statewide": [
+        {"name": "Oregon Food Bank Clothing Closets", "address": "Various throughout Oregon", "phone": "(503) 282-0555"},
+        {"name": "Portland Rescue Mission", "address": "111 W Burnside St, Portland, OR 97209", "phone": "(503) 906-7690"},
+        {"name": "Union Gospel Mission", "address": "3 NW Third Ave, Portland, OR 97209"}
+      ]
+    }
+  },
+  "Wyoming": {
+    "cities": {
+      "Statewide": [
+        {"name": "Joshua’s Storehouse", "address": "334 S Jefferson St, Casper, WY 82601", "phone": "(307) 265-0242"},
+        {"name": "Salvation Army Casper", "address": "625 S Jefferson St, Casper, WY 82601", "phone": "(307) 234-2002"},
+        {"name": "Wyoming Rescue Mission", "address": "230 N Park St, Casper, WY 82601", "phone": "(307) 265-3002"}
+      ]
+    }
+  },
+  "Florida": {
+    "cities": {
+      "Statewide": [
+        {"name": "Clothes To Kids", "address": "1059 N. Hercules Ave., Clearwater, FL 33765", "phone": "(727) 441-5050", "website": "https://clothestokids.org"},
+        {"name": "RAK PAK Clothing Closet (Goodman Jewish Family Services)", "address": "100 S Pine Island Rd, Plantation, FL 33324", "phone": "(954) 909-0810", "email": "info@jfsbroward.org", "website": "https://www.jfsbroward.org/services/rak-pak/"},
+        {"name": "Caring Children Clothing Children", "address": "415 S Federal Hwy, Stuart, FL 34994", "phone": "(772) 221-8777", "website": "https://www.4cmartin.org"}
+      ]
+    }
+  },
+  "Michigan": {
+    "cities": {
+      "Statewide": [
+        {"name": "Volunteers of America Michigan", "address": "Main Office: 21415 Civic Center Dr #306, Southfield, MI 48076", "phone": "(248) 945-0101", "website": "https://www.voami.org/donate-clothing-furniture/"},
+        {"name": "St. Mark Catholic Church Clothes Closet", "address": "4401 Bart, Warren, MI 48091", "phone": "(586) 759-3026"},
+        {"name": "Trinity Lutheran Church / Trinity Kids Closet", "address": "45160 Van Dyke Ave., Utica, MI 48317", "phone": "(586) 731-4490"}
+      ]
+    }
+  },
+  "Minnesota": {
+    "cities": {
+      "Statewide": [
+        {"name": "Joseph's Coat", "address": "1107 West 7th Street, St. Paul, MN 55102", "phone": "(651) 291-2472", "email": "jc.info@josephscoatmn.org", "website": "http://www.josephscoatmn.org/"},
+        {"name": "Central Presbyterian Church Martha's Closet", "address": "500 Cedar Street, St. Paul, MN 55101", "phone": "(651) 224-4728"},
+        {"name": "Valley Outreach", "address": "1901 Curve Crest Blvd. West, Stillwater, MN 55082", "email": "info@valleyoutreachmn.org", "website": "https://valleyoutreachmn.org/clothing-donations/"}
+      ]
+    }
+  },
+  "Idaho": {
+    "cities": {
+      "Statewide": [
+        {"name": "The Closet, Inc.", "address": "1035 W Bannock St, Boise, ID 83702", "website": "https://www.theclosetinc.org"},
+        {"name": "The Wardrobe Treasure Valley", "address": "Boise, ID (serving youth in foster and kinship care)", "website": "https://www.wardrobetreasurevalley.org"},
+        {"name": "Joe's Closet (University of Idaho)", "address": "875 Perimeter Dr, Moscow, ID 83844", "phone": "(208) 885-7836", "email": "barbaras@uidaho.edu", "website": "https://www.uidaho.edu/student-affairs/dean-of-students/services/joes-closet"}
+      ]
+    }
+  },
+  "Washington": {
+    "cities": {
+      "Statewide": [
+        {"name": "YWCA Working Wardrobe", "address": "16601 NE 80th St, Redmond, WA 98052 | 3301 Broadway, Everett, WA 98201 | 2024 Third Ave, Seattle, WA 98121", "email": "volunteer@ywcaworks.org", "website": "https://www.ywcaworks.org/programs/working-wardrobe"},
+        {"name": "Clothesline - West Seattle Food Bank", "address": "10032 15th Ave SW, Seattle, WA 98146", "phone": "(206) 932-9023", "email": "clothesline@westseattlefoodbank.org", "website": "https://westseattlefoodbank.org/clothesline/"},
+        {"name": "Neighborhood House Clothes Closet", "address": "747 11th Ave NW, Issaquah, WA 98027", "phone": "(425) 391-7448", "website": "https://www.ranh.org/clothes-closet"}
+      ]
+    }
+  }
+} 
